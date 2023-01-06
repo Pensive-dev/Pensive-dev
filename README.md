@@ -7,8 +7,15 @@
   <img src="https://img.shields.io/badge/-AR-9cf"/>
   <img src="https://img.shields.io/badge/-VR-orange"/>
   <img src="https://img.shields.io/badge/-Andorid-brightgreen?style=flat-square&logo=android&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Hololens-blue"/>
+  <img src="https://img.shields.io/badge/XR-Hololens-blue"/>
   <img src="https://img.shields.io/badge/-Windows-blue?style=flat-square&logo=windows&logoColor=white"/>
+</p>
+<p>
+  <img src="https://img.shields.io/badge/VR-PicoVR-%23000000"/>
+  <img src="https://img.shields.io/badge/VR-GearVR-%23091b3b"/>
+  <img src="https://img.shields.io/badge/CardboardVR-%23f7991e?style=flat-square&logo=googlecardboard&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Odyssey%20VR-%23050147"/>
+  <img src="https://img.shields.io/badge/AR-ARCORE-%23dba1ff"/>
 </p>
 <p>
   <img src="https://img.shields.io/badge/-visualstudio-%235C2D91?style=flat-square&logo=visualstudio&logoColor=white"/>
