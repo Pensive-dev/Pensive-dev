@@ -15,4 +15,15 @@
   <img src="https://img.shields.io/badge/-Unity-lightgrey?style=flat-square&logo=unity&logoColor=black"/>
   <img src="https://img.shields.io/badge/-Unreal-lightgrey?style=flat-square&logo=unrealengine&logoColor=black"/>
   <img src="https://img.shields.io/badge/-Github-inactive?style=flat-square&logo=github&logoColor=black"/>
+  <img src="https://img.shields.io/badge/-TortoiseSVN-%231287B1"/>
+</p>
+
+
+### ❤️ Interest
+#### Technology
+<p>
+  <img src="https://img.shields.io/badge/-TDD-%23f55f8a"/>
+  <img src="https://img.shields.io/badge/-ERP-%23e2e1e3"/>
+  <img src="https://img.shields.io/badge/-editor-%239ccbdb"/>
+  <img src="https://img.shields.io/badge/-Module-%23bebdbf"/>
 </p>
