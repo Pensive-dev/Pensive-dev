@@ -33,5 +33,5 @@
   <img src="https://img.shields.io/badge/-TDD-%23f55f8a"/>
   <img src="https://img.shields.io/badge/-ERP-%23e2e1e3"/>
   <img src="https://img.shields.io/badge/-editor-%239ccbdb"/>
-  <img src="https://img.shields.io/badge/-Module-%23bebdbf"/>
+  <img src="https://img.shields.io/badge/-Library-green"/>
 </p>
