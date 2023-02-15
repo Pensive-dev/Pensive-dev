@@ -3,35 +3,45 @@
 ### 💪 Skills
 #### Platforms & Languages
 <p>
-  <img src="https://img.shields.io/badge/c%23-blueviolet?style=flat-square&logo=csharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-AR-9cf"/>
-  <img src="https://img.shields.io/badge/-VR-orange"/>
-  <img src="https://img.shields.io/badge/-Andorid-brightgreen?style=flat-square&logo=android&logoColor=white"/>
-  <img src="https://img.shields.io/badge/XR-Hololens-blue"/>
-  <img src="https://img.shields.io/badge/-Windows-blue?style=flat-square&logo=windows&logoColor=white"/>
+    <img src="https://img.shields.io/badge/c%23-blueviolet?style=flat-square&logo=csharp&logoColor=white"/>
 </p>
 <p>
-  <img src="https://img.shields.io/badge/VR-PicoVR-%23000000"/>
-  <img src="https://img.shields.io/badge/VR-GearVR-%23091b3b"/>
-  <img src="https://img.shields.io/badge/CardboardVR-%23f7991e?style=flat-square&logo=googlecardboard&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Odyssey%20VR-%23050147"/>
-  <img src="https://img.shields.io/badge/AR-ARCORE-%23dba1ff"/>
-</p>
-<p>
-  <img src="https://img.shields.io/badge/-visualstudio-%235C2D91?style=flat-square&logo=visualstudio&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Unity-lightgrey?style=flat-square&logo=unity&logoColor=black"/>
-  <img src="https://img.shields.io/badge/-Unreal-lightgrey?style=flat-square&logo=unrealengine&logoColor=black"/>
-  <img src="https://img.shields.io/badge/-Github-inactive?style=flat-square&logo=github&logoColor=black"/>
-  <img src="https://img.shields.io/badge/-TortoiseSVN-%231287B1"/>
+    <img src="https://img.shields.io/badge/-Unity-lightgrey?style=flat-square&logo=unity&logoColor=black"/>
+    <img src="https://img.shields.io/badge/-Unreal-lightgrey?style=flat-square&logo=unrealengine&logoColor=black"/>
+    <img src="https://img.shields.io/badge/ARCORE-blueviolet?style=flat-square"/>
 </p>
 
+### 🛠️ Devices
+<p>
+    <img src="https://img.shields.io/badge/Hololens-blue"/>
+    <img src="https://img.shields.io/badge/-Andorid-brightgreen?style=flat-square&logo=android&logoColor=white"/>
+
+</p>
+<p>
+    <img src="https://img.shields.io/badge/PicoVR-%23000000"/>
+    <img src="https://img.shields.io/badge/GearVR-%23091b3b"/>
+    <img src="https://img.shields.io/badge/CardboardVR-%23f7991e?style=flat-square&logo=googlecardboard&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Odyssey%20VR-%23050147"/>
+</p>
+<p>
+    <img src="https://img.shields.io/badge/-visualstudio-%235C2D91?style=flat-square&logo=visualstudio&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Github-black?style=flat-square&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-TortoiseSVN-%231287B1"/>
+</p>
+<p>
+    <img src="https://img.shields.io/badge/-Windows-blue?style=flat-square&logo=windows&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira&logoColor=white"/>
+</P>
 
 ### ❤️ Interest
 #### Technology
 <p>
-  <img src="https://img.shields.io/badge/-Test%20Automation-%23ff7e70"/>
-  <img src="https://img.shields.io/badge/-TDD-%23f55f8a"/>
-  <img src="https://img.shields.io/badge/-ERP-%23e2e1e3"/>
-  <img src="https://img.shields.io/badge/-editor-%239ccbdb"/>
-  <img src="https://img.shields.io/badge/-Library-green"/>
+    <img src="https://img.shields.io/badge/-Test%20Automation-%23ff7e70"/>
+    <img src="https://img.shields.io/badge/-TDD-%23f55f8a"/>
+</p>
+<p>
+    <img src="https://img.shields.io/badge/-ERP-%23e2e1e3"/>
+    <img src="https://img.shields.io/badge/-editor-%239ccbdb"/>
+    <img src="https://img.shields.io/badge/-Library-green"/>
 </p>
