@@ -1,4 +1,4 @@
-[![Ju's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pensive-dev&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Ju's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pensive-dev&show_icons=true&count_private=true)](https://github.com/Pensive-dev/github-readme-stats)
 
 ### 💪 Skills
 #### Platforms & Languages
