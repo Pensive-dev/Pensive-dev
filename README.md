@@ -1,4 +1,4 @@
-[![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Pensive-dev&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Ju's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Pensive-dev&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 💪 Skills
 #### Platforms & Languages
