@@ -15,6 +15,7 @@
 <p>
     <img src="https://img.shields.io/badge/Hololens-blue?style=flat-square"/>
     <img src="https://img.shields.io/badge/-Andorid-brightgreen?style=flat-square&logo=android&logoColor=white"/>
+    <img src="https://img.shields.io/badge/iOS-lightgrey??style=flat-square"/>
 
 </p>
 <p>
@@ -44,4 +45,5 @@
 <p>
     <img src="https://img.shields.io/badge/-Editor-%239ccbdb"/>
     <img src="https://img.shields.io/badge/-Library-green"/>
+    <img src="https://img.shields.io/badge/-SDK-DD0B78"/>
 </p>
