@@ -9,6 +9,7 @@
     <img src="https://img.shields.io/badge/-Unity-lightgrey?style=flat-square&logo=unity&logoColor=black"/>
     <img src="https://img.shields.io/badge/-Unreal-lightgrey?style=flat-square&logo=unrealengine&logoColor=black"/>
     <img src="https://img.shields.io/badge/ARCORE-blueviolet?style=flat-square"/>
+    <img src="https://img.shields.io/badge/Third party-orange?style=flat-square"/>
 </p>
 
 ### 🛠️ Devices
