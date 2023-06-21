@@ -29,7 +29,7 @@
     <img src="https://img.shields.io/badge/-visualstudio-%235C2D91?style=flat-square&logo=visualstudio&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Github-black?style=flat-square&logo=github&logoColor=white"/>
     <img src="https://img.shields.io/badge/-TortoiseSVN-%231287B1?style=flat-square"/>
-    <img src="https://img.shields.io/badge/-Mantis-%23088A08?style=flat-square&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Mantis Bug Tracker-%23088A08?style=flat-square&logoColor=white"/>
 </p>
 <p>
     <img src="https://img.shields.io/badge/-Windows-blue?style=flat-square&logo=windows&logoColor=white"/>
