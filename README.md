@@ -3,12 +3,18 @@
 ### 💪 Skills
 #### Platforms & Languages
 <p>
-    <img src="https://img.shields.io/badge/c%23-blueviolet?style=flat-square&logo=csharp&logoColor=white"/>
+    <img src="https://img.shields.io/badge/C%23-blueviolet?style=flat-square&logo=csharp&logoColor=white"/>
 </p>
 <p>
     <img src="https://img.shields.io/badge/-Unity-lightgrey?style=flat-square&logo=unity&logoColor=black"/>
     <img src="https://img.shields.io/badge/-Unreal-lightgrey?style=flat-square&logo=unrealengine&logoColor=black"/>
-    <img src="https://img.shields.io/badge/Third party-orange?style=flat-square"/>
+    <img src="https://img.shields.io/badge/Third party-04B486?style=flat-square"/>
+</p>
+
+#### Sub Languages
+<p>
+    <img src="https://img.shields.io/badge/Java-FF8000?style=flat-square"/>
+    <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
 </p>
 
 ### 🛠️ Devices
@@ -40,7 +46,7 @@
 <p>
     <img src="https://img.shields.io/badge/-Test%20Automation-%23ff7e70"/>
     <img src="https://img.shields.io/badge/-TDD-%23f55f8a"/>
-    <img src="https://img.shields.io/badge/-Editor-%239ccbdb"/>
+    <img src="https://img.shields.io/badge/-Editor-0101DF"/>
     <img src="https://img.shields.io/badge/-Library-green"/>
     <img src="https://img.shields.io/badge/-SDK-DD0B78"/>
     <img src="https://img.shields.io/badge/-Metaverse-CC2EFA"/>
