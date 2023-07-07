@@ -22,7 +22,7 @@
     <img src="https://img.shields.io/badge/-Windows-blue?style=flat-square&logo=windows&logoColor=white"/>
     <img src="https://img.shields.io/badge/Hololens-blue?style=flat-square"/>
     <img src="https://img.shields.io/badge/-Andorid-brightgreen?style=flat-square&logo=android&logoColor=white"/>
-    <img src="https://img.shields.io/badge/iOS-lightgrey??style=flat-square"/>
+    <img src="https://img.shields.io/badge/iOS-lightgrey?style=flat-square"/>
 </p>
 <p>
     <img src="https://img.shields.io/badge/PicoVR-%23000000?style=flat-square"/>
@@ -46,8 +46,7 @@
 <p>
     <img src="https://img.shields.io/badge/-Test%20Automation-%23ff7e70"/>
     <img src="https://img.shields.io/badge/-TDD-%23f55f8a"/>
-    <img src="https://img.shields.io/badge/-Editor-0101DF"/>
-    <img src="https://img.shields.io/badge/-Library-green"/>
     <img src="https://img.shields.io/badge/-SDK-DD0B78"/>
     <img src="https://img.shields.io/badge/-Metaverse-CC2EFA"/>
+    <img src="https://img.shields.io/badge/-Digital Twin-5FB404"/>
 </p>
