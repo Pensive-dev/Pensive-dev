@@ -8,7 +8,7 @@
 <p>
     <img src="https://img.shields.io/badge/-Unity-lightgrey?style=flat-square&logo=unity&logoColor=black"/>
     <img src="https://img.shields.io/badge/-Unreal-lightgrey?style=flat-square&logo=unrealengine&logoColor=black"/>
-    <img src="https://img.shields.io/badge/Third party-04B486?style=flat-square"/>
+    <img src="https://img.shields.io/badge/3rd party-04B486?style=flat-square"/>
 </p>
 
 #### Sub Languages
