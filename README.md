@@ -47,6 +47,5 @@
     <img src="https://img.shields.io/badge/-Test%20Automation-%23ff7e70"/>
     <img src="https://img.shields.io/badge/-TDD-%23f55f8a"/>
     <img src="https://img.shields.io/badge/-SDK-DD0B78"/>
-    <img src="https://img.shields.io/badge/-Metaverse-CC2EFA"/>
     <img src="https://img.shields.io/badge/-Digital Twin-5FB404"/>
 </p>
