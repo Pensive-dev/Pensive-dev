@@ -17,10 +17,10 @@
     <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
 </p>
 
-### 🛠️ Devices
+### 🛠️ Devices & Tools
 <p>
     <img src="https://img.shields.io/badge/-Windows-blue?style=flat-square&logo=windows&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Hololens-blue?style=flat-square"/>
+    <img src="https://img.shields.io/badge/Hololens-00BFFF?style=flat-square"/>
     <img src="https://img.shields.io/badge/-Andorid-brightgreen?style=flat-square&logo=android&logoColor=white"/>
     <img src="https://img.shields.io/badge/iOS-lightgrey?style=flat-square"/>
 </p>
@@ -29,7 +29,7 @@
     <img src="https://img.shields.io/badge/GearVR-%23091b3b?style=flat-square"/>
     <img src="https://img.shields.io/badge/CardboardVR-%23f7991e?style=flat-square&logo=googlecardboard&logoColor=white"/>
     <img src="https://img.shields.io/badge/Odyssey%20VR-%23050147?style=flat-square"/>
-    <img src="https://img.shields.io/badge/ARCORE-blueviolet?style=flat-square"/>
+    <img src="https://img.shields.io/badge/ARCORE-8181F7?style=flat-square"/>
     <img src="https://img.shields.io/badge/ARKit-0080FF?style=flat-square"/>
 </p>
 <p>
@@ -44,8 +44,11 @@
 ### ❤️ Interest
 #### Technology
 <p>
-    <img src="https://img.shields.io/badge/-Test%20Automation-%23ff7e70"/>
-    <img src="https://img.shields.io/badge/-TDD-%23f55f8a"/>
-    <img src="https://img.shields.io/badge/-SDK-DD0B78"/>
-    <img src="https://img.shields.io/badge/-Digital Twin-5FB404"/>
+    <img src="https://img.shields.io/badge/-Editor-2E64FE?style=flat-square"/>
+    <img src="https://img.shields.io/badge/-Metaverse-9F81F7?style=flat-square"/>
+    <img src="https://img.shields.io/badge/-Digital Twin-5FB404?style=flat-square"/>
+    <img src="https://img.shields.io/badge/-Test%20Automation-%23ff7e70?style=flat-square"/>
+    <img src="https://img.shields.io/badge/-TDD-%23f55f8a?style=flat-square"/>
+    <img src="https://img.shields.io/badge/-SDK-DD0B78?style=flat-square"/>
+    
 </p>
