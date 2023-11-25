@@ -41,14 +41,14 @@
     <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira&logoColor=white"/>
 </p>
 
-### ❤️ Interest
-#### Technology
+#### My Technical skills & ❤️ Interest
 <p>
     <img src="https://img.shields.io/badge/-Editor-2E64FE?style=flat-square"/>
     <img src="https://img.shields.io/badge/-Metaverse-9F81F7?style=flat-square"/>
-    <img src="https://img.shields.io/badge/-Digital Twin-5FB404?style=flat-square"/>
-    <img src="https://img.shields.io/badge/-Test%20Automation-%23ff7e70?style=flat-square"/>
     <img src="https://img.shields.io/badge/-TDD-%23f55f8a?style=flat-square"/>
+</p>
+<p>
+    <img src="https://img.shields.io/badge/-Digital Twin-5FB404?style=flat-square"/>
     <img src="https://img.shields.io/badge/-SDK-DD0B78?style=flat-square"/>
-    
+    <img src="https://img.shields.io/badge/-Test%20Automation-%23ff7e70?style=flat-square"/>
 </p>
