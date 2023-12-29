@@ -1,7 +1,7 @@
 [![Ju's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Pensive-dev&show_icons=true&count_private=true)](https://github.com/Pensive-dev/github-readme-stats)
 
 ### 💪 Skills
-#### Platforms & Languages
+#### Main Languages & Platforms
 <p>
     <img src="https://img.shields.io/badge/C%23-blueviolet?style=flat-square&logo=csharp&logoColor=white"/>
 </p>
@@ -54,4 +54,10 @@
     <img src="https://img.shields.io/badge/-Digital Twin-5FB404?style=flat-square"/>
     <img src="https://img.shields.io/badge/-SDK-DD0B78?style=flat-square"/>
     <img src="https://img.shields.io/badge/-Test%20Automation-%23ff7e70?style=flat-square"/>
+</p>
+
+#### Hobbies Develep Skills
+<p>
+    <img src="https://img.shields.io/badge/-Web (Html5&CSS3/JSP)-E2E2E2?style=flat-square"/>
+    <img src="https://img.shields.io/badge/-DB (Oracle/MySQL)-E2E2E2?style=flat-square"/>
 </p>
