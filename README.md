@@ -61,3 +61,6 @@
     <img src="https://img.shields.io/badge/-Web (Html5&CSS3/JSP)-E2E2E2?style=flat-square"/>
     <img src="https://img.shields.io/badge/-DB (Oracle/MySQL)-E2E2E2?style=flat-square"/>
 </p>
+
+#### Career
+- [Career Summary](https://github.com/Pensive-dev/Pensive-dev/issues/4)
