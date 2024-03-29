@@ -1,11 +1,7 @@
 [![Ju's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Pensive-dev&show_icons=true&count_private=true)](https://github.com/Pensive-dev/github-readme-stats)
 
-### 💪 Skills
-#### Main
-[![My Skills](https://skillicons.dev/icons?i=cs,unity,unreal)](https://skillicons.dev)
-
-#### Sub
-[![My Sub Skills](https://skillicons.dev/icons?i=java,cpp,py)](https://skillicons.dev)
+### 💪 Skills : Main & Sub
+[![My Skills](https://skillicons.dev/icons?i=cs,unity,unreal,java,cpp,py&perline=3)](https://skillicons.dev)
 
 ### 🛠️ Devices & Tools
 [![My Devices and Tools Skills](https://skillicons.dev/icons?i=windows,androidstudio,apple,visualstudio,vscode,github,gitlab,figma)](https://skillicons.dev)
@@ -26,7 +22,7 @@
     <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira&logoColor=white"/>
 </p>
 
-#### My Technical skills & ❤️ Interest
+### My Field & ❤️ Interest
 <p>
     <img src="https://img.shields.io/badge/-Editor-2E64FE?style=flat-square"/>
     <img src="https://img.shields.io/badge/-AR-00badb?style=flat-square"/>
