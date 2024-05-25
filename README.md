@@ -1,7 +1,7 @@
 [![Ju's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Pensive-dev&show_icons=true&count_private=true)](https://github.com/Pensive-dev/github-readme-stats)
 
 ### 💪 Skills : Main & Sub
-[![My Skills](https://skillicons.dev/icons?i=cs,unity,unreal,java,cpp,py&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,unity,unreal,java,py&perline=3)](https://skillicons.dev)
 
 ### 🛠️ Devices & Tools
 [![My Devices and Tools Skills](https://skillicons.dev/icons?i=windows,androidstudio,apple,visualstudio,vscode,github,gitlab,figma)](https://skillicons.dev)
@@ -22,7 +22,7 @@
     <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira&logoColor=white"/>
 </p>
 
-### My Field & ❤️ Interest
+### 🏢 My Field & ❤️ Interest
 <p>
     <img src="https://img.shields.io/badge/-Editor-2E64FE?style=flat-square"/>
     <img src="https://img.shields.io/badge/-AR-00badb?style=flat-square"/>
@@ -37,11 +37,8 @@
 
 </p>
 
-#### Hobbies Develep Skills
+### 🏫 Major Develep Skills
 [![My Skills](https://skillicons.dev/icons?i=html,css,mysql)](https://skillicons.dev)
-<p>
-    <img src="https://img.shields.io/badge/-Oracle/JSP-E2E2E2?style=flat-square"/>
-</p>
 
-#### Career
-- [Career Summary](https://github.com/Pensive-dev/Pensive-dev/issues/4)
+### Career Summary
+[My Career Summary](https://github.com/Pensive-dev/Pensive-dev/issues/4)
