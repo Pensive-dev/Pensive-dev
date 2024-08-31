@@ -24,10 +24,10 @@
 
 ### 🏢 My Field & ❤️ Interest
 <p>
-    <img src="https://img.shields.io/badge/-Editor-2E64FE?style=flat-square"/>
     <img src="https://img.shields.io/badge/-AR-00badb?style=flat-square"/>
     <img src="https://img.shields.io/badge/-VR-1b6600?style=flat-square"/>
     <img src="https://img.shields.io/badge/-XR-003d66?style=flat-square"/>
+    <img src="https://img.shields.io/badge/-Editor-2E64FE?style=flat-square"/>
     <img src="https://img.shields.io/badge/-Metaverse-9F81F7?style=flat-square"/>
     <img src="https://img.shields.io/badge/-Automation-%23ff7e70?style=flat-square"/>
 </p>
