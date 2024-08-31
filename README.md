@@ -34,7 +34,7 @@
 <p>
     <img src="https://img.shields.io/badge/-Digital Twin-5FB404?style=flat-square"/>
     <img src="https://img.shields.io/badge/-SDK-DD0B78?style=flat-square"/>
-
+    <img src="https://img.shields.io/badge/-AI-12c12c?style=flat-square"/>
 </p>
 
 ### 🏫 Major Develep Skills
