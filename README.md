@@ -4,7 +4,7 @@
 [![My Skills](https://skillicons.dev/icons?i=cs,unity,unreal,java,py&perline=3)](https://skillicons.dev)
 
 ### 🛠️ Devices & Tools
-[![My Devices and Tools Skills](https://skillicons.dev/icons?i=windows,androidstudio,apple,visualstudio,vscode,github,gitlab,figma)](https://skillicons.dev)
+[![My Devices and Tools Skills](https://skillicons.dev/icons?i=windows,androidstudio,apple,visualstudio,vscode,git,github,gitlab,figma,notion)](https://skillicons.dev)
 
 <p>
     <img src="https://img.shields.io/badge/Hololens-00BFFF?style=flat-square"/>
