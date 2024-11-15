@@ -19,7 +19,7 @@
 [![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white)](https://slack.com/intl/ko-kr)
 [![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)](https://www.atlassian.com/ko/software/jira/guides/getting-started/introduction)
 
-### 🏢 My Field & ❤️ Interest
+### 🏢 My Field
 [![AR](https://img.shields.io/badge/AR-00badb?style=for-the-badge&logoColor=white)](https://ko.wikipedia.org/wiki/%EC%A6%9D%EA%B0%95_%ED%98%84%EC%8B%A4)
 [![VR](https://img.shields.io/badge/VR-1b6600?style=for-the-badge&logoColor=white)](https://ko.wikipedia.org/wiki/%EA%B0%80%EC%83%81_%ED%98%84%EC%8B%A4)
 [![Metaverse](https://img.shields.io/badge/Metaverse-9F81F7?style=for-the-badge&logoColor=white)](https://ko.wikipedia.org/wiki/%EB%A9%94%ED%83%80%EB%B2%84%EC%8A%A4)
