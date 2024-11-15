@@ -20,19 +20,9 @@
 [![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)](https://www.atlassian.com/ko/software/jira/guides/getting-started/introduction)
 
 ### 🏢 My Field & ❤️ Interest
-<p>
-    <img src="https://img.shields.io/badge/-AR-00badb?style=flat-square"/>
-    <img src="https://img.shields.io/badge/-VR-1b6600?style=flat-square"/>
-    <img src="https://img.shields.io/badge/-XR-003d66?style=flat-square"/>
-    <img src="https://img.shields.io/badge/-Editor-2E64FE?style=flat-square"/>
-    <img src="https://img.shields.io/badge/-Metaverse-9F81F7?style=flat-square"/>
-    <img src="https://img.shields.io/badge/-Automation-%23ff7e70?style=flat-square"/>
-</p>
-<p>
-    <img src="https://img.shields.io/badge/-Digital Twin-5FB404?style=flat-square"/>
-    <img src="https://img.shields.io/badge/-SDK-DD0B78?style=flat-square"/>
-    <img src="https://img.shields.io/badge/-AI-12c12c?style=flat-square"/>
-</p>
+[![AR](https://img.shields.io/badge/AR-00badb?style=for-the-badge&logoColor=white)](https://ko.wikipedia.org/wiki/%EC%A6%9D%EA%B0%95_%ED%98%84%EC%8B%A4)
+[![VR](https://img.shields.io/badge/VR-1b6600?style=for-the-badge&logoColor=white)](https://ko.wikipedia.org/wiki/%EA%B0%80%EC%83%81_%ED%98%84%EC%8B%A4)
+[![Metaverse](https://img.shields.io/badge/Metaverse-9F81F7?style=for-the-badge&logoColor=white)](https://ko.wikipedia.org/wiki/%EB%A9%94%ED%83%80%EB%B2%84%EC%8A%A4)
 
 ### 🏫 Major Develep Skills
 [![My Skills](https://skillicons.dev/icons?i=html,css,mysql)](https://skillicons.dev)
