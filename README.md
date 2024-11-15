@@ -6,21 +6,18 @@
 ### 🛠️ Devices & Tools
 [![My Devices and Tools Skills](https://skillicons.dev/icons?i=windows,androidstudio,apple,visualstudio,vscode,git,github,gitlab,figma,notion)](https://skillicons.dev)
 
-<p>
-    <img src="https://img.shields.io/badge/Hololens-00BFFF?style=flat-square"/>
-    <img src="https://img.shields.io/badge/PicoVR-%23000000?style=flat-square"/>
-    <img src="https://img.shields.io/badge/GearVR-%23091b3b?style=flat-square"/>
-    <img src="https://img.shields.io/badge/CardboardVR-%23f7991e?style=flat-square&logo=googlecardboard&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Odyssey%20VR-%23050147?style=flat-square"/>
-    <img src="https://img.shields.io/badge/ARCORE-8181F7?style=flat-square"/>
-    <img src="https://img.shields.io/badge/ARKit-0080FF?style=flat-square"/>
-</p>
-<p>
-    <img src="https://img.shields.io/badge/-TortoiseSVN-%231287B1?style=flat-square"/>
-    <img src="https://img.shields.io/badge/-Mantis Bug Tracker-%23088A08?style=flat-square&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira&logoColor=white"/>
-</p>
+[![Hololens](https://img.shields.io/badge/Hololens-00BFFF?style=for-the-badge&logoColor=white)](https://www.microsoft.com/ko-kr/hololens)
+[![PicoVR](https://img.shields.io/badge/PicoVR-%23000000?style=for-the-badge&logoColor=white)](https://www.picoxr.com/kr)
+[![GearVR](https://img.shields.io/badge/GearVR-%23091b3b?style=for-the-badge&logoColor=white)](https://gearvr.net/)
+[![CardboardVR](https://img.shields.io/badge/Cardboard_VR-%23f7991e?style=for-the-badge&logoColor=white)](https://arvr.google.com/cardboard/)
+[![OdysseyVR](https://img.shields.io/badge/Odyssey_VR-%23050147?style=for-the-badge&logoColor=white)](https://www.samsung.com/sec/support/model/XQ800ZAA-HC1KR/)
+[![ARCore](https://img.shields.io/badge/ARCore-8181F7?style=for-the-badge&logoColor=white)](https://developers.google.com/ar?hl=ko)
+[![ARKit](https://img.shields.io/badge/ARKit-0080FF?style=for-the-badge&logoColor=white)](https://developer.apple.com/kr/augmented-reality/arkit/)
+
+[![TortoiseSVN](https://img.shields.io/badge/Tortoise_SVN-%231287B1?style=for-the-badge&logoColor=white)](https://tortoisesvn.net/)
+[![Mantis Bug Tracker](https://img.shields.io/badge/Mantis_Bug_Tracker-%23088A08?style=for-the-badge&logoColor=white)](https://mantisbt.org/)
+[![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white)](https://slack.com/intl/ko-kr)
+[![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)](https://www.atlassian.com/ko/software/jira/guides/getting-started/introduction)
 
 ### 🏢 My Field & ❤️ Interest
 <p>
