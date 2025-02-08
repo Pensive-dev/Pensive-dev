@@ -29,3 +29,6 @@
 
 ## 🗂️ Career Summary
 [My Career Summary](https://github.com/Pensive-dev/Pensive-dev/issues/4)
+
+## 💻 Progress
+[work](https://github.com/yjbae-sqa)
