@@ -39,10 +39,16 @@ Unity Client 개발 분야에서 5년의 경력을 보유한 Software Engineer�
 [![ARCore](https://img.shields.io/badge/ARCore-8181F7?style=for-the-badge&logoColor=white)](https://developers.google.com/ar?hl=ko)
 [![ARKit](https://img.shields.io/badge/ARKit-0080FF?style=for-the-badge&logoColor=white)](https://developer.apple.com/kr/augmented-reality/arkit/)
 
-## 🏢 My Field
+## 🏢 Domain
 [![AR](https://img.shields.io/badge/AR-00badb?style=for-the-badge&logoColor=white)](https://ko.wikipedia.org/wiki/%EC%A6%9D%EA%B0%95_%ED%98%84%EC%8B%A4)
 [![VR](https://img.shields.io/badge/VR-1b6600?style=for-the-badge&logoColor=white)](https://ko.wikipedia.org/wiki/%EA%B0%80%EC%83%81_%ED%98%84%EC%8B%A4)
 [![Metaverse](https://img.shields.io/badge/Metaverse-9F81F7?style=for-the-badge&logoColor=white)](https://ko.wikipedia.org/wiki/%EB%A9%94%ED%83%80%EB%B2%84%EC%8A%A4)
+
+## ✅ Testing
+- unit test, TDD
+
+## ⚙️ CI/CD
+[![Github Actions](https://skills.syvixor.com/api/icons?i=githubactions)](https://github.com/features/actions?locale=ko-KR)
 
 <h2>
   <a href="https://github.com/Pensive-dev/Pensive-dev/issues/4" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: #58a6ff;"> 🗂️ Career Summary ↗</a>
