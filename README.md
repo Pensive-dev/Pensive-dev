@@ -6,42 +6,43 @@ Unity Client 개발 분야에서 5년의 경력을 보유한 Software Engineer�
 저는 **테스트 주도 개발**(TDD)을 실천하며, **품질을 중요시 하는 개발 문화**를 만드는 것이 핵심 가치입니다.
 
 ## 🖥️ Languages
-  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=cs" alt="C#"/></a>
+[![C#](https://skillicons.dev/icons?i=cs)](https://learn.microsoft.com/en-us/dotnet/csharp/)
+[![Java](https://skillicons.dev/icons?i=java)](https://www.java.com/)
 
-## 🎮 Game Engines 
-  <a href="https://unity.com/" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=unity" alt="Unity "/></a>
-  <a href="https://www.unrealengine.com/" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=unreal" alt="Unreal Engine "/></a>
+## 🎮 Game Engines
+[![Unity](https://skillicons.dev/icons?i=unity)](https://unity.com/)
+[![Unreal Engine](https://skillicons.dev/icons?i=unreal)](https://www.unrealengine.com/)
 
 ## 🛠️ Tools & IDEs
-  <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=visualstudio" alt="Visual Studio" /></a>
-  <a href="https://developer.android.com/studio" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=androidstudio" alt="Android Studio" /></a>
-  <a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=git" alt="Git" /></a>
-  <a href="https://github.com/" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" /></a>
-  <a href="https://gitlab.com/" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=gitlab" alt="GitLab"/></a>
-  <a href="https://figma.com/" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=figma" alt="Figma" /></a>
-  <a href="https://slack.com/" target="_blank" rel="noopener noreferrer"><img src="https://skills.syvixor.com/api/icons?i=slack" alt="Slack"/></a>
-  <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noopener noreferrer"><img src="https://skills.syvixor.com/api/icons?i=jira" alt="Jira"/></a>
-  <a href="https://tortoisesvn.net/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Tortoise_SVN-%231287B1?style=for-the-badge&logoColor=white" alt="TortoiseSVN"/></a>
-  <a href="https://mantisbt.org/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Mantis_Bug_Tracker-%23088A08?style=for-the-badge&logoColor=white" alt="Mantis Bug Tracker"/></a>
+[![Visual Studio](https://skillicons.dev/icons?i=visualstudio)](https://visualstudio.microsoft.com/)
+[![Android Studio](https://skillicons.dev/icons?i=androidstudio)](https://developer.android.com/studio)
+[![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com/)
+[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/)
+[![GitLab](https://skillicons.dev/icons?i=gitlab)](https://gitlab.com/)
+[![Figma](https://skillicons.dev/icons?i=figma)](https://figma.com/)
+[![Slack](https://skills.syvixor.com/api/icons?i=slack)](https://slack.com/)
+[![Jira](https://skills.syvixor.com/api/icons?i=jira)](https://www.atlassian.com/software/jira)
+[![TortoiseSVN](https://img.shields.io/badge/Tortoise_SVN-1287B1?style=for-the-badge&logoColor=white)](https://tortoisesvn.net/)
+[![MantisBT](https://img.shields.io/badge/Mantis_Bug_Tracker-088A08?style=for-the-badge&logoColor=white)](https://mantisbt.org/)
 
 ## 💻 Platforms / OS
-  <a href="https://www.microsoft.com/windows" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=windows" alt="Windows"/></a>
-  <a href="https://www.android.com/" target="_blank" rel="noopener noreferrer"><img src="https://skills.syvixor.com/api/icons?i=android" alt="Android"/></a>
-  <a href="https://www.apple.com/kr/os/ios/" target="_blank" rel="noopener noreferrer"><img src="https://skills.syvixor.com/api/icons?i=ios" alt="IOS"/></a>
+[![Windows](https://skillicons.dev/icons?i=windows)](https://www.microsoft.com/windows)
+[![Android](https://skills.syvixor.com/api/icons?i=android)](https://www.android.com/)
+[![iOS](https://skills.syvixor.com/api/icons?i=ios)](https://www.apple.com/kr/os/ios/)
 
 ## 🕶️ Devices & SDKs
-  <a href="https://www.microsoft.com/ko-kr/hololens" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Hololens-00BFFF?style=for-the-badge&logoColor=white" alt="Hololens"/></a>
-  <a href="https://www.picoxr.com/kr" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/PicoVR-%23000000?style=for-the-badge&logoColor=white" alt="PicoVR"/></a>
-  <a href="https://gearvr.net/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/GearVR-%23091b3b?style=for-the-badge&logoColor=white" alt="GearVR"/></a>
-  <a href="https://arvr.google.com/cardboard/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Cardboard_VR-%23f7991e?style=for-the-badge&logoColor=white" alt="CardboardVR"/></a>
-  <a href="https://www.samsung.com/sec/support/model/XQ800ZAA-HC1KR/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Odyssey_VR-%23050147?style=for-the-badge&logoColor=white" alt="OdysseyVR"/></a>
-  <a href="https://developers.google.com/ar?hl=ko" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/ARCore-8181F7?style=for-the-badge&logoColor=white" alt="ARCore"/></a>
-  <a href="https://developer.apple.com/kr/augmented-reality/arkit/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/ARKit-0080FF?style=for-the-badge&logoColor=white" alt="ARKit"/></a>
+[![Hololens](https://img.shields.io/badge/Hololens-00BFFF?style=for-the-badge&logoColor=white)](https://www.microsoft.com/ko-kr/hololens)
+[![PicoVR](https://img.shields.io/badge/PicoVR-000000?style=for-the-badge&logoColor=white)](https://www.picoxr.com/kr)
+[![GearVR](https://img.shields.io/badge/GearVR-091b3b?style=for-the-badge&logoColor=white)](https://gearvr.net/)
+[![CardboardVR](https://img.shields.io/badge/Cardboard_VR-f7991e?style=for-the-badge&logoColor=white)](https://arvr.google.com/cardboard/)
+[![OdysseyVR](https://img.shields.io/badge/Odyssey_VR-050147?style=for-the-badge&logoColor=white)](https://www.samsung.com/sec/support/model/XQ800ZAA-HC1KR/)
+[![ARCore](https://img.shields.io/badge/ARCore-8181F7?style=for-the-badge&logoColor=white)](https://developers.google.com/ar?hl=ko)
+[![ARKit](https://img.shields.io/badge/ARKit-0080FF?style=for-the-badge&logoColor=white)](https://developer.apple.com/kr/augmented-reality/arkit/)
 
 ## 🏢 My Field
-  <a href="https://ko.wikipedia.org/wiki/%EC%A6%9D%EA%B0%95_%ED%98%84%EC%8B%A4" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/AR-00badb?style=for-the-badge&logoColor=white" alt="AR"/></a>
-  <a href="https://ko.wikipedia.org/wiki/%EA%B0%80%EC%83%81_%ED%98%84%EC%8B%A4" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/VR-1b6600?style=for-the-badge&logoColor=white" alt="VR"/></a>
-  <a href="https://ko.wikipedia.org/wiki/%EB%A9%94%ED%83%80%EB%B2%84%EC%8A%A4" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Metaverse-9F81F7?style=for-the-badge&logoColor=white" alt="Metaverse"/></a>
+[![AR](https://img.shields.io/badge/AR-00badb?style=for-the-badge&logoColor=white)](https://ko.wikipedia.org/wiki/%EC%A6%9D%EA%B0%95_%ED%98%84%EC%8B%A4)
+[![VR](https://img.shields.io/badge/VR-1b6600?style=for-the-badge&logoColor=white)](https://ko.wikipedia.org/wiki/%EA%B0%80%EC%83%81_%ED%98%84%EC%8B%A4)
+[![Metaverse](https://img.shields.io/badge/Metaverse-9F81F7?style=for-the-badge&logoColor=white)](https://ko.wikipedia.org/wiki/%EB%A9%94%ED%83%80%EB%B2%84%EC%8A%A4)
 
 <h2>
   <a href="https://github.com/Pensive-dev/Pensive-dev/issues/4" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: #58a6ff;"> 🗂️ Career Summary ↗</a>
