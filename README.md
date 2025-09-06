@@ -24,6 +24,7 @@ Unity Client 개발 분야에서 5년의 경력을 보유한 Software Engineer�
 [![Jira](https://skills.syvixor.com/api/icons?i=jira)](https://www.atlassian.com/software/jira)
 [![TortoiseSVN](https://img.shields.io/badge/Tortoise_SVN-1287B1?style=for-the-badge&logoColor=white)](https://tortoisesvn.net/)
 [![MantisBT](https://img.shields.io/badge/Mantis_Bug_Tracker-088A08?style=for-the-badge&logoColor=white)](https://mantisbt.org/)
+[![MantisBT](https://img.shields.io/badge/Zeplin-ebab23?style=for-the-badge&logoColor=white)](https://zeplin.io/)
 
 ## 💻 Platforms / OS
 [![Windows](https://skillicons.dev/icons?i=windows)](https://www.microsoft.com/windows)
