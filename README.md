@@ -57,9 +57,9 @@ Unity Client 개발 5년의 경력을 보유한 Software Engineer 입니다.
 <h2>
   <a href="https://github.com/Pensive-dev/Pensive-dev/issues/4" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: #58a6ff;"> 🗂️ Career Summary ↗</a>
 </h2>
-  <p style="margin-top: -10px; color: gray;">👉 요약 보기 (GitHub 이슈) </p>
+  <p>👉 요약 보기 (GitHub 이슈) </p>
 
 <h2>
   <a href="https://github.com/yjbae-sqa" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: #58a6ff;">📂 Current Work ↗</a>
 </h2>
-<p style="margin-top: -10px; color: gray;">👉 현재 진행 중인 업무를 GitHub Issue로 정리해두었습니다.</p>
+<p>👉 현재 진행 중인 업무를 GitHub Issue로 정리해두었습니다.</p>
