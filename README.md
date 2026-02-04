@@ -1,9 +1,9 @@
 [![Ju's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Pensive-dev&show_icons=true&count_private=true)](https://github.com/Pensive-dev/github-readme-stats)
 
 ## 👋 About Me
-Unity Client 업무로 5년의 개발 경력을 보유한 Software Engineer 입니다.  
+Unity 클라이언트 업무로 5년간의 개발 경력을 보유한 Software Engineer 입니다.  
 제가 참여한 주요 **개발 프로젝트**들을 이곳에 정리하였습니다.  
-저는 **테스트 주도 개발**(TDD)을 실천하며, **품질을 중요시 하는 개발 문화**를 만드는 것을 중요하게 생각합니다.
+저는 **테스트 주도 개발**(TDD)을 실천하며, **품질을 중요시 하는 개발 문화**를 만드는 것을 지향합니다.
 
 ## 🖥️ Languages
 [![C#](https://skillicons.dev/icons?i=cs)](https://learn.microsoft.com/en-us/dotnet/csharp/)
